@@ -1,0 +1,6 @@
+node_modules/
+fitness/node_modules/
+fitness/dist/
+server/node_modules/
+
+server/.env
